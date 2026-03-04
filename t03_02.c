@@ -37,7 +37,7 @@ int main() {
             prev_val = current_val;
         }
 
-        printf("hasil dari bilangan yang di masukkan adalah\n");
+        
         printf("%d\n", min_val);
         printf("%d\n", max_val);
 
