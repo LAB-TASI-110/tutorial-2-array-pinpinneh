@@ -9,6 +9,8 @@ int main()
     int min_val;
     int max_val;
     double min_avg = DBL_MAX;
+    double min_avg = DBL_MAX;
+
 
     scanf("%d", &n);
 
